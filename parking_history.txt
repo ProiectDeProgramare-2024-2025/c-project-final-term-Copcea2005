@@ -1,0 +1,9 @@
+Prepopulated Data:
+ABC123 - Red Zone - Red - 2 hours - 3.00 RON
+XYZ789 - Green Zone - Green - 4 hours - 8.00 RON
+SM80BJR - Yellow Zone - Yellow - 4 hours - 4.00 RON
+Sm08BJR - Yellow Zone - Yellow - 4 hours - 4.00 RON
+AV20CLJ - Red Zone - Red - 2 hours - 3.00 RON
+ABC123 - Yellow Zone - Yellow - 5 hours - 5.00 RON
+SM47ADE - Red Zone - Red - 8 hours - 12.00 RON
+SM57ADE - Yellow Zone - Yellow - 6 hours - 6.00 RON
